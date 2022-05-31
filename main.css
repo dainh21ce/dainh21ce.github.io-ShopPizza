@@ -373,7 +373,10 @@ section p {
 .in-box .fa-plus-circle {
     color: var(--clr4);
 }
-
+.fa-heart:before {
+    content: "\f004";
+    margin: 0.5rem;
+}
 
 /*----------------blog Section-0--------*/
 
